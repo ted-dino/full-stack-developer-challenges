@@ -81,8 +81,7 @@ $ npm start
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
+- [How to allow <input type="file"> to accept only image files?](https://stackoverflow.com/questions/3828554/how-to-allow-input-type-file-to-accept-only-image-files#:~:text=11-,using,-type%3D%22file%22%20and)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
