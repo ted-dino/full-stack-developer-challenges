@@ -83,6 +83,7 @@ $ npm start
 
 - [How to allow <input type="file"> to accept only image files?](https://stackoverflow.com/questions/3828554/how-to-allow-input-type-file-to-accept-only-image-files#:~:text=11-,using,-type%3D%22file%22%20and)
 - [How to use Supabase Storage (Upload Files or images)](https://youtu.be/yLdOpLk7bsI)
+- [Progress Bar Loader](https://codepen.io/headquarter8302/pen/PoORrmY)
 
 ## Contact
 
