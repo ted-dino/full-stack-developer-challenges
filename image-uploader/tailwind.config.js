@@ -12,6 +12,15 @@ module.exports = {
         secondary: "#828282",
         accent: "#BDBDBD",
       },
+      keyframes: {
+        barLoader: {
+          from: { transform: "translate(0, 0)" },
+          to: { transform: "translate(240px, 0)" },
+        },
+      },
+      animation: {
+        barLoader: "barLoader 2s infinite alternate ease-in-out",
+      },
     },
   },
   plugins: [],
