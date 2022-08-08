@@ -48,9 +48,9 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone 
+$ git clone https://github.com/ted-dino/image-uploader.git
 
-# Change directory https://github.com/ted-dino/full-stack-developer-challenges.git
+# Navigate to the new folder
 $ cd image-uploader
 
 # Install dependencies
