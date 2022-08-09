@@ -59,7 +59,7 @@ $ npm install
 # Run the app
 $ npm run dev
 ```
-<strong>NOTE</strong>: guide on how to get your API Keys. [click me](https://supabase.com/docs/guides/with-nextjs#get-the-api-keys) and rename the file named `.env.local.example` to `.env.local` and paste your API Key there.
+<strong>NOTE</strong>: guide on how to get your API Keys. [click me](https://supabase.com/docs/guides/with-nextjs#get-the-api-keys) and rename the file named `.env.local.example` to `.env.local` and paste your API Keys there.
 
 
 ## Acknowledgements
