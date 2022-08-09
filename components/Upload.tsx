@@ -17,10 +17,17 @@ const Upload = ({ setFile, setFileName, setLoading, setError }: Props) => {
   ) => {
     if (image && image.currentTarget.files) {
       const file = image.currentTarget.files[0];
+      const MAX_SIZE = 52428800; // Supabase Upload file size limit
       const pattern = /image-*/;
 
       if (!file.type.match(pattern)) {
         alert("Invalid Format");
+        return;
+      }
+      if (file.size > MAX_SIZE) {
+        alert(
+          "File size is too large; select a picture that is less than 50MB"
+        );
         return;
       }
       try {
