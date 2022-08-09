@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://full-stack-developer-challenges.vercel.app/">
+    <a href="https://image-uploader-sooty.vercel.app/">
       Demo
     </a>
     <span> | </span>
